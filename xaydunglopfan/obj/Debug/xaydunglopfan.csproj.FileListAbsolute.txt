@@ -1,0 +1,7 @@
+E:\C#\online\W06\Lopvadoituongtrongc#\xaydunglopfan\xaydunglopfan\bin\Debug\xaydunglopfan.exe.config
+E:\C#\online\W06\Lopvadoituongtrongc#\xaydunglopfan\xaydunglopfan\bin\Debug\xaydunglopfan.exe
+E:\C#\online\W06\Lopvadoituongtrongc#\xaydunglopfan\xaydunglopfan\bin\Debug\xaydunglopfan.pdb
+E:\C#\online\W06\Lopvadoituongtrongc#\xaydunglopfan\xaydunglopfan\obj\Debug\xaydunglopfan.csproj.AssemblyReference.cache
+E:\C#\online\W06\Lopvadoituongtrongc#\xaydunglopfan\xaydunglopfan\obj\Debug\xaydunglopfan.csproj.CoreCompileInputs.cache
+E:\C#\online\W06\Lopvadoituongtrongc#\xaydunglopfan\xaydunglopfan\obj\Debug\xaydunglopfan.exe
+E:\C#\online\W06\Lopvadoituongtrongc#\xaydunglopfan\xaydunglopfan\obj\Debug\xaydunglopfan.pdb
